@@ -3,6 +3,8 @@ This repo is intended to collect the most useful resources I've found for studyi
 
 
 ## Introduction to Machine Learning
+[Machine Learning Basics - Short and Intuitive](https://youtube.com/playlist?list=PLkguTFqZ9THFtRU9V-8ocNyG8iyw4RXBe&si=F3wpPjeaNRg2awTw)
+
 [PhD Student Lab Example - Units](https://colab.research.google.com/drive/12fRjeoWgpiBObTUjrXACemgdrmu4b2Yu?usp=sharing)
 
 [An Introduction to Statistical Learning (both in R and Python)](https://www.statlearning.com/)
@@ -15,6 +17,10 @@ This repo is intended to collect the most useful resources I've found for studyi
 [3Blue1Brown's Bayes Theorem Explanatory Video](https://youtu.be/HZGCoVF3YvM?si=xRk5ctjaM3Bs6gPU)
 
 ## Probabilistic Machine Learning
+[Bayesian Networks Explained Simply](https://www.youtube.com/watch?v=TuGDMj43ehw)
+
+[Link to the rest of the class above](https://youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ&si=SY1DxHbzVNsi4Nvk)
+
 [Probabilistic Graphical Models - Stanford Course Notes](https://ermongroup.github.io/cs228-notes/)
 
 ## Deep Learning
@@ -28,3 +34,8 @@ This repo is intended to collect the most useful resources I've found for studyi
 [Cornell Course on Youtube](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 
 [Advance SQL Tutorial](https://www.kaggle.com/learn/advanced-sql)
+
+# Cloud
+[Short Docker Basics](https://youtu.be/rIrNIzy6U_g?feature=shared)
+
+[More Detailed Docker Tutorial](https://www.youtube.com/watch?v=pTFZFxd4hOI)
