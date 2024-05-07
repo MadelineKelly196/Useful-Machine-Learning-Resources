@@ -30,6 +30,14 @@ This repo is intended to collect the most useful resources I've found for studyi
 
 [Maybe Understanding Deep Learning?](https://udlbook.github.io/udlbook/)
 
+[Creating custom datasets in PyTorch](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
+
+[Zero to Mastery of PyTorch](https://www.learnpytorch.io/)
+
+[Basic Python Neural Nets with Explanations](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+
+[Python Neural Nets with Gradient Descent Explanation](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+
 # Database Management
 [Cornell Course on Youtube](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 
